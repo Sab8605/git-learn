@@ -16,7 +16,7 @@ def hello_world():
         if prediction == 1.0:
             d[0] = "Will Rain Tomorrow" 
         else:
-            d[0] = "Will Not Rain Tomorrow"    
+            d[0] = "Will Not Rain Tomorow"    
         return d    
 
 
